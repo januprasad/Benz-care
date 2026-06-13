@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toyota Care</string>
+    <string name="concierge">CONCIERGE</string>
+    <string name="gemma_powered">GEMMA POWERED</string>
+    <string name="chat">chat</string>
+    <string name="repair_ai">REPAIR AI</string>
+    <string name="history">HISTORY</string>
+</resources>

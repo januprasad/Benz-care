@@ -1,0 +1,6 @@
+{
+  "name": "Toyota Care AI",
+  "description": "Toyota Repair Estimator. Chat and take pictures of vehicle scratches or dents to instantly analyze repair costs and details using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
